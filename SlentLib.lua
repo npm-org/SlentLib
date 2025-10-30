@@ -1,5 +1,5 @@
 -- SlentLib.lua (v5) - stable, fixed, feature-complete
--- Load: local Slent = loadstring(game:HttpGet("https://raw.githubusercontent.com/yourname/SlentLib/main/SlentLib.lua"))()
+-- Load: local Slent = loadstring(game:HttpGet("https://raw.githubusercontent.com/npm-org/SlentLib/refs/heads/main/SlentLib.lua"))()
 
 local Slent = {}
 local TweenService = game:GetService("TweenService")
